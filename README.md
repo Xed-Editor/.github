@@ -1,1 +1,1 @@
-# .github
+Karbon is a powerful text editor for developers, programmers, and power users on Android. It offers syntax highlighting, and robust customization, making it a perfect tool for coding and text management on the go.
